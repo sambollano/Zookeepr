@@ -4,7 +4,7 @@
   "description": "Module 11: Express.js\r ## Purpose\r We Are Making a ZOO",
   "main": "server.js",
   "scripts": {
-    "test": "Jest",
+    "test": "jest",
     "start": "node server.js"
   },
   "repository": {
