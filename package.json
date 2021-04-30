@@ -1,0 +1,21 @@
+{
+  "name": "Zookeepr",
+  "version": "1.0.0",
+  "description": "Module 11: Express.js\r ## Purpose\r We Are Making a ZOO",
+  "main": "server.js",
+  "scripts": {
+    "test": "Jest",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sambollano/Zookeepr.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sambollano/Zookeepr/issues"
+  },
+  "homepage": "https://github.com/sambollano/Zookeepr#readme"
+}
